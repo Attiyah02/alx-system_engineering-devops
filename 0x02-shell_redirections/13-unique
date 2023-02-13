@@ -1,2 +1,2 @@
 #!/bin/bash
-sort letters | uniq -d
+sort | uniq -u
